@@ -1,2 +1,2 @@
 # Frontend WebProject
-Fullstack React web developer
+React web developement
